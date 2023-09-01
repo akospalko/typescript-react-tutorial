@@ -15,3 +15,7 @@ body {
 button {
   font-size: 2rem;
 }
+
+button:focus {
+  outline: 3px solid rgb(177, 11, 11);
+}
